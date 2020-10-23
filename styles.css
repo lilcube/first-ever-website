@@ -1,0 +1,14 @@
+h1{text-decoration: underline;}
+h1{text-align: center;}
+h1{font-style: oblique;}
+h1{font-size: 40px;}
+
+#small-headers{font-style: italic;}
+#small-headers{text-align: center;}
+h2{font-size: 30px}
+h3{font-size: 25px;}
+
+.paragraphs{font-family: sans-serif;}
+.paragraphs{font-size: 16px;}
+.paragraphs{letter-spacing: 0.2px;}
+.paragraphs{line-height: 30px}
